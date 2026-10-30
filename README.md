@@ -83,20 +83,6 @@ Sistema web para la gestión de cooperativas de transporte y buses, desarrollado
 
 ---
 
-## 📊 Mis estadísticas de GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ali-20-I&show_icons=true&theme=tokyonight&hide_border=true&title_color=C084FC&icon_color=A855F7&text_color=FFFFFF&bg_color=0D1117" alt="Estadísticas de GitHub" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-20-I&layout=compact&theme=tokyonight&hide_border=true&title_color=C084FC&text_color=FFFFFF&bg_color=0D1117" alt="Lenguajes más utilizados" />
-
-</div>
-
----
-
 ## 🌐 Mis redes sociales
 
 <div align="center">
